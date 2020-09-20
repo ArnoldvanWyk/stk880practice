@@ -1,7 +1,7 @@
 stkprac
 ==============================
 
-blah
+Simple neural net
 
 Project Organization
 ------------
